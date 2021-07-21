@@ -24,3 +24,4 @@ public class MainApp {
         if (afterMethod != null) afterMethod.invoke(testObj, null);
     }
 }
+//
